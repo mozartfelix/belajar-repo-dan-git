@@ -6,3 +6,5 @@ Test conflict from development
 Test conlict 1
 
 Test pull pada branch development
+
+Test conflict merge pada branch master
