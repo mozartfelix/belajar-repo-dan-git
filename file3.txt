@@ -1,3 +1,5 @@
 Test commit dari file3.txt
 
 Mencoba branch dan merge dari master
+
+Test conlict 1
