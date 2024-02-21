@@ -3,3 +3,4 @@ Test commit dari file3.txt
 Mencoba branch dan merge dari master
 
 Test conflict from development
+Test conlict 1
